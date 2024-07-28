@@ -1,8 +1,7 @@
 # DQN-on-Carla-Simulator
 This repository contains the implementation of a simple DQN agent to drive a car in the Carla simulation environement. 
 
-![flixier-2024-07-28T18_09_20 250Z](https://github.com/user-attachments/assets/f9188dd5-467b-432d-a835-74d9edc0898b)
-
+<img src="https://github.com/user-attachments/assets/f9188dd5-467b-432d-a835-74d9edc0898b" alt="Drone Dynamics" width="400"/>
 
 - ### CARLA
 CARLA (Car Learning to Act) is an open-source simulator designed for autonomous driving research, offering a high-fidelity, customizable virtual world. It provides detailed urban and rural environments, realistic vehicle dynamics, and various sensors such as cameras and LiDAR, allowing researchers to test and validate autonomous vehicle algorithms in a simulated real-world setting. Additionally, CARLA allows users to create their own custom worlds for tailored testing and experimentation, enhancing the versatility and applicability of the simulation.
